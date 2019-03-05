@@ -1,0 +1,23 @@
+{
+    "name": "express.js-configuration",
+    "version": "1.0.0",
+    "description": "Express.js configuration",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/0na/Express.js-configuration.git"
+    },
+    "author": "Aleksandra Garlikowska",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/0na/Express.js-configuration/issues"
+    },
+    "homepage": "https://github.com/0na/Express.js-configuration#readme",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4"
+    }
+}
